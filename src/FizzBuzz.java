@@ -30,7 +30,7 @@ class FizzBuzz {
 
             }
         }*/
-        //coment for test
+
         int i=1;
         while (i < 100) {
             // Find out which numbers divide i.
